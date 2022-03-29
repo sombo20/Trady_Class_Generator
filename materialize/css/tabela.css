@@ -1,0 +1,32 @@
+a{
+ text-decoration:none;
+ color:#000;
+ padding:8px;
+ font-size:16px;
+}
+
+
+.up{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+}
+
+.center{
+  text-align:center;
+}
+
+.row{
+  margin-top:1rem;
+  margin-bottom:1rem;
+}
+
+#button{
+  padding:6px;
+  background:#311b92;
+  color:#fff;
+  border:1px solid #fff;
+  border-radius:4px;
+  margin-bottom:2rem;
+}

@@ -1,0 +1,19 @@
+.center{
+	text-align:center;
+	margin-bottom:1rem;
+}
+
+body{
+  background:rgb(255,255,255);
+}
+
+select{
+  padding:4px;
+  background:#fff;
+  color:#000;
+  border-top:none;
+  border-left:none;
+  border-right:none;
+  border-bottom:1px solid red;
+  margin-bottom:2rem;
+}
